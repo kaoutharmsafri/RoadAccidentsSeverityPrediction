@@ -1,1 +1,2 @@
 model.pkl filter=lfs diff=lfs merge=lfs -text
+preprocessor.pkl filter=lfs diff=lfs merge=lfs -text
